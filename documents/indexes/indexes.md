@@ -15,8 +15,8 @@
 - It comes with:
   - Cost of additional writes
   - Additional storage space
-    
-![Example](https://github.com/devOpsKai/mongoDoc/blob/main/documents/indexes/mongoIndex.JPG)
+- below diagram illustrates indexing    
+![Example](mongoIndex.JPG)
 
 ### Types of Indexes
 > Single Field Index
