@@ -15,4 +15,5 @@
 - It comes with:
   - Cost of additional writes
   - Additional storage space
+    
 ![Tux, the Linux mascot](https://github.com/devOpsKai/mongoDoc/blob/main/documents/indexes/mongoIndex.JPG) 
