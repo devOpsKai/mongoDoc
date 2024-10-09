@@ -33,6 +33,7 @@
 >  - Supports Planar geometry data
 >> 2dsphere Index
 >  - Supports Spherical geometry data
+
 > Text Index
   - Index type that supports searching for string field
 > Hashed Index
