@@ -29,9 +29,9 @@
     
 > Geospatial Index
   - To support efficient queries of geospatial coordinate data, MongoDB provides two special indexes:
-  > - 2d Index
+  > 2d Index
       - Supports Planar geometry data
-  > - 2dsphere Index
+  > 2dsphere Index
       - Supports Spherical geometry data
 
 > Text Index
