@@ -1,7 +1,6 @@
 # Schema Validations
 
-``
-`{`
+``{
  `"validator": {`
    ` $jsonSchema: {`
       "bsonType": "object",
