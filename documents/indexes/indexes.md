@@ -20,10 +20,9 @@
 
 ### Types of Indexes
 > ![Single Field Index](single-field-index.md)
-  - Indexes on a single field of a document
+  
 > Compound Index
-  - Indexes on multiple fields of a document
-    
+
 > Multikey Index
   - Index on the content stored in arrays
     
