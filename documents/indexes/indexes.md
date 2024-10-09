@@ -27,8 +27,8 @@
   - Index on the content stored in arrays
 > Geospatial Index
   - To support efficient queries of geospatial coordinate data, MongoDB provides two special indexes:
-  > 2d Index – Supports Planar geometry data
-  > 2dsphere Index – Supports Spherical geometry data
+  > - 2d Index – Supports Planar geometry data
+  > - 2dsphere Index – Supports Spherical geometry data
 > Text Index
   - Index type that supports searching for string field
 > Hashed Index
