@@ -16,4 +16,12 @@
   - Cost of additional writes
   - Additional storage space
     
-![Tux, the Linux mascot](https://github.com/devOpsKai/mongoDoc/blob/main/documents/indexes/mongoIndex.JPG) 
+![Tux, the Linux mascot](https://github.com/devOpsKai/mongoDoc/blob/main/documents/indexes/mongoIndex.JPG)
+
+### Types of Indexes
+> Single Field Index
+  - Indexes on a single field of a document
+- Compound Index
+- Indexes on multiple fields of a document
+- Multikey Index
+- Index on the content stored in arrays
