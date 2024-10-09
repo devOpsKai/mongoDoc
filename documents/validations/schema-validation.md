@@ -1,18 +1,14 @@
 # Schema Validations
 
 ``
-> {
-
->    "validator": {
-
->        $jsonSchema: {
-
->            "bsonType": "object",
-
->           "description": "Document describing a mountain peak",
->           "required": ["name", "height", "location"],
->            "properties": {
->               "name": {
+{
+  "validator": {
+    $jsonSchema: {
+      "bsonType": "object",
+      "description": "Document describing a mountain peak",
+      "required": ["name", "height", "location"],
+      "properties": {
+        "name": {
                     "bsonType": "string",
                     "description": "Name must be a string and is required"
                 },
