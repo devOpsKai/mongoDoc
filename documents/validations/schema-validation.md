@@ -1,6 +1,6 @@
 # Schema Validations
 
-`
+``
 {
     "validator": {
         $jsonSchema: {
@@ -31,4 +31,4 @@
         }
     }
 })
-`
+``
