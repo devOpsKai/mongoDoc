@@ -19,7 +19,7 @@
 ![Example](mongoIndex.JPG)
 
 ### Types of Indexes
-> ![singleFieldIndex](single-field-index.md)
+> ![single Field Index](single-field-index.md)
   - Indexes on a single field of a document
   - Reference: 
 > Compound Index
