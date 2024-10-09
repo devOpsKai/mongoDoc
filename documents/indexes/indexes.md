@@ -33,9 +33,9 @@
 >  - Supports Planar geometry data
 >> 2dsphere Index
 >  - Supports Spherical geometry data
-
 > Text Index
   - Index type that supports searching for string field
-    
 > Hashed Index
   - Index to support the hash based sharding
+> Wildcard Indexes
+  - Index to support queries against unknown or arbitrary field
