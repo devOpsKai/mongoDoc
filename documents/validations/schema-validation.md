@@ -1,9 +1,9 @@
 # Schema Validations
 
 ``
-{
-  "validator": {
-    $jsonSchema: {
+`{`
+ `"validator": {`
+   ` $jsonSchema: {`
       "bsonType": "object",
       "description": "Document describing a mountain peak",
       "required": ["name", "height", "location"],
